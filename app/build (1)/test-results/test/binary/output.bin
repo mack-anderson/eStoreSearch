@@ -1,0 +1,21 @@
+.Electronics----------------------------------
+ProductID: 999999
+Description: test description
+Year: 9999
+Price: $999.99
+Maker: Maker
+
+.Electronics----------------------------------
+ProductID: 000001
+Description: TeSt
+Year: 9999
+Price: $99.0
+Maker: Author
+
+.Electronics----------------------------------
+ProductID: 111111
+(Description: description something test
+Year: 9999
+Price: $99.0
+Maker: Author
+

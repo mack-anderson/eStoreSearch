@@ -1,0 +1,10 @@
+eStoreSearch/ValueCheckTest.java
+ eStoreSearch.ValueCheckTest
+eStoreSearch/ElectronicsTest.java
+ eStoreSearch.ElectronicsTest
+eStoreSearch/BookTest.java
+ eStoreSearch.BookTest
+eStoreSearch/UserInputTest.java
+ eStoreSearch.UserInputTest
+eStoreSearch/EStoreSearchTest.java
+ eStoreSearch.EStoreSearchTest

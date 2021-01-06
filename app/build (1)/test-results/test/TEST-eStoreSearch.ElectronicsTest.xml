@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eStoreSearch.ElectronicsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-30T20:31:18" hostname="Macks-Laptop" time="0.005">
+  <properties/>
+  <testcase name="testToString" classname="eStoreSearch.ElectronicsTest" time="0.002"/>
+  <testcase name="testEqualsProductID" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testSettersAndGetters" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testSetAuthor" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testEqualsElectronics" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testSetProductID" classname="eStoreSearch.ElectronicsTest" time="0.001"/>
+  <testcase name="testSetYear" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testSetElectronics" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testSetDesription" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <testcase name="testSetPrice" classname="eStoreSearch.ElectronicsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

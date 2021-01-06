@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eStoreSearch.EStoreSearchTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-11-30T20:31:18" hostname="Macks-Laptop" time="0.021">
+  <properties/>
+  <testcase name="testAddBook" classname="eStoreSearch.EStoreSearchTest" time="0.001"/>
+  <testcase name="testSearchYear" classname="eStoreSearch.EStoreSearchTest" time="0.004"/>
+  <testcase name="testSearchInput" classname="eStoreSearch.EStoreSearchTest" time="0.004"/>
+  <testcase name="testHashMapInitialCreation" classname="eStoreSearch.EStoreSearchTest" time="0.006"/>
+  <testcase name="testHashMapUpdatedKeywords" classname="eStoreSearch.EStoreSearchTest" time="0.003"/>
+  <testcase name="testSearchCombined" classname="eStoreSearch.EStoreSearchTest" time="0.001"/>
+  <testcase name="testAddElectronics" classname="eStoreSearch.EStoreSearchTest" time="0.0"/>
+  <testcase name="testSearchProductID" classname="eStoreSearch.EStoreSearchTest" time="0.0"/>
+  <testcase name="testSearchKeywords" classname="eStoreSearch.EStoreSearchTest" time="0.001"/>
+  <system-out><![CDATA[Electronics----------------------------------
+ProductID: 999999
+Description: test description
+Year: 9999
+Price: $999.99
+Maker: Maker
+
+Electronics----------------------------------
+ProductID: 000001
+Description: TeSt
+Year: 9999
+Price: $99.0
+Maker: Author
+
+Electronics----------------------------------
+ProductID: 111111
+Description: description something test
+Year: 9999
+Price: $99.0
+Maker: Author
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

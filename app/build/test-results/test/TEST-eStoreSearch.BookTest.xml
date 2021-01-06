@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eStoreSearch.BookTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-30T20:31:18" hostname="Macks-Laptop" time="0.039">
+  <properties/>
+  <testcase name="testToString" classname="eStoreSearch.BookTest" time="0.035"/>
+  <testcase name="testEqualsProductID" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testEqualsBook" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testSetPublisher" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testSetAuthor" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testSetProductID" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testSetBook" classname="eStoreSearch.BookTest" time="0.001"/>
+  <testcase name="testSetYear" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testSetDesription" classname="eStoreSearch.BookTest" time="0.0"/>
+  <testcase name="testSetPrice" classname="eStoreSearch.BookTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
