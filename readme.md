@@ -1,6 +1,5 @@
-##### ASSIGNMENT 3 README
+##### eStoreSearch README
 * Name: Mack Anderson
-* Student ID: 1099411
 * Email: mander39@uoguelph.ca
 
 #### Functionality 
